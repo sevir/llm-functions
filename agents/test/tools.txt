@@ -1,0 +1,2 @@
+get_current_time.sh
+get_current_weather.sh
